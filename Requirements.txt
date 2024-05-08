@@ -1,0 +1,6 @@
+pyfluids
+meteostat
+matplotlib
+pandas
+scipy
+streamlit
